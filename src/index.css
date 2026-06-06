@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+  html.dark {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-white dark:bg-slate-950 text-slate-900 dark:text-slate-100;
+  }
+}

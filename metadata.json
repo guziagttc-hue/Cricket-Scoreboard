@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: ক্রিকেট স্কোরবোর্ড",
+  "description": "একটি আধুনিক এবং সহজ ক্রিকেট রান গণনার সফটওয়্যার",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
